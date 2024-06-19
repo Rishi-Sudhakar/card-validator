@@ -1,0 +1,15 @@
+{
+  "name": "card-validator",
+  "version": "1.0.0",
+  "description": "A card validator, that validates credit cards. It uses Luhn's algorithm to validate credit card numbers based on checksum calculations.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^31.0.1"
+  }
+}
